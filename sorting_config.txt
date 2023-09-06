@@ -1,5 +1,5 @@
 [B]BubbleSort 1
-[Q]QuickSort 0
-[M]MergeSort 0
-[I]InsertionSort 1
+[Q]QuickSort 1
+[M]MergeSort 1
+[I]InsertionSort 0
 [S]SelectionSort 1
